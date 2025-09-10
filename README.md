@@ -14,6 +14,8 @@ It provides dashboards for revenue trends, top customers, product performance, a
 [https://github.com/md-1711/sales-insights](https://github.com/md-1711/sales-insights)
 
 ## Screenshots
-![Pic 1](screenshots/pic1.png)
-![Pic 2](screenshots/pic2.png)
-![Pic 3](screenshots/pic3.png)
+## Screenshots
+
+![Dashboard 1](Screenshots/pic1.png)
+![Dashboard 2](Screenshots/pic2.png)
+![Dashboard 3](Screenshots/pic3.png)
